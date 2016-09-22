@@ -5,8 +5,10 @@ This is a lambda function to pull from a Google Sheets spreadsheet, compare some
 Specifically built for querying a medication tracking system and sending the needed medications to caregivers over SMS.
 
 It is made to be used with this Data tracking/input Google Sheet:
+[Caregiving: Medication Tracker](https://docs.google.com/spreadsheets/d/1Hm5UL6oPZ49TPtTSb-miiPjQ8PhYO7WtUGtY_yfIFE0)
 
 For information on the complete system, checkout this blog post:
+[Med tracking and Reminders: How to Avert human Error](http://www.gabeochoa.com/how/2016/9/21/med-tracking-and-reminders-how-to-avert-human-error)
 
 # Modifications
 
